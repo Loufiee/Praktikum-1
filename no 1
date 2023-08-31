@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nomer 1</title>
+</head>
+<body>
+    <h1 align="center">PANCASILA</h1>
+    <img src="sila 1.png" width="200" height="200"align="left"hspace="20" vspace="20" alt="sila 1">
+    <br><br>
+    <p style="font-size: 24px;">
+        <b>Ketuhanan Yang Maha Esa</b>
+    </p>
+    <br></br>
+    <img src="sila 2.png" width="200" height="200"align="right"hspace="20" vspace="20" alt="sila 2">
+    <br><br>
+    <p style="font-size: 24px;" align="right">
+        <b>Kemanusiaan Yang Adil dan Beradab</b>
+    </p>
+    <br></br>
+    <img src="sila 3.png" width="200" height="200"align="left"hspace="20" vspace="20" alt="sila 3">
+    <br><br>
+    <p style="font-size: 24px;">
+        <b>Persatuan Indonesia</b>
+    </p>
+    <br></br>
+    <img src="sila 4.webp" width="200" height="200"align="right"hspace="20" vspace="20" alt="sila 4 ">
+    <br><br>
+    <p style="font-size: 24px;" align="right">
+        <b>Kerakyatan Yang Dipimpin oleh Hikmat Kebijaksanaan Dalam Permusyawaratan Perwakilan</b>
+    </p>
+    <br></br>
+    <img src="sila 5.png" width="200" height="200"align="left"hspace="20" vspace="20" alt="sila 3">
+    <br><br>
+    <p style="font-size: 24px;">
+        <b>Keadilan Sosial Bagi Seluruh Rakyat Indonesia</b>
+    </p>
+</body>
+</html>
